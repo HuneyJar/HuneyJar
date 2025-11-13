@@ -1,7 +1,10 @@
 <h1>Hi, I'm John, an IT Professional, pursuing Network Engineering & Security<br/></h1>
 
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Lab projects:</h2>
+
+- <b>Networking</b>
+  - [OSPF_HSRP_EtherChannel Lab](https://github.com/johnan9/OSPF_HSRP_EtherChannel)
 
 - <b>Cybersecurity</b>
   - [Cybersecurity Aduit and Remediation](https://github.com/johnan9/Cybersecurity-Audit-and-Remediation)
