@@ -7,7 +7,7 @@
   - [OSPF_HSRP_EtherChannel Lab](https://github.com/johnan9/OSPF_HSRP_EtherChannel)
 
 - <b>Cybersecurity</b>
-  - [Cybersecurity Aduit and Remediation](https://github.com/johnan9/Cybersecurity-Audit-and-Remediation)
+  - [Cybersecurity Audit and Remediation](https://github.com/johnan9/Cybersecurity-Audit-and-Remediation)
 
     
 - <b>Azure</b>
